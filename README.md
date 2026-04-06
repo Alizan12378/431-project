@@ -38,9 +38,9 @@ npm install
 chmod +x node_modules/.bin/react-scripts
 <p><img width="803" height="63" alt="圖片" src="https://github.com/user-attachments/assets/5e06f5fa-6451-402d-9fa7-dbbbc24df977" />
 </p>
-#back to the previous folder /donation-truffle
+back to the previous folder /donation-truffle
 ch ..
 ./start_web3.sh
 The firefox will start any second now
-<img width="1141" height="763" alt="圖片" src="https://github.com/user-attachments/assets/e55b3c2a-4459-4222-a903-ce2df8651b71" />
+<p><img width="1141" height="763" alt="圖片" src="https://github.com/user-attachments/assets/e55b3c2a-4459-4222-a903-ce2df8651b71" /></p>
 
