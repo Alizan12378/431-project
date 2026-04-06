@@ -1,0 +1,72 @@
+{
+  "bigwong": {
+    "username": "bigwong",
+    "password": "123456789",
+    "address": "0x17E844F7062ebC426D8B598866AB0a02139e864F",
+    "privateKey": "0x8cc6b16227ef3b8da8aee75027f12d9440077aca6e6ae3b2eb58160acc38fd62",
+    "cardNumber": "1234567890123456",
+    "cvv": "123",
+    "expiryDate": "04/26",
+    "createdAt": "2026-04-04T14:11:09.497Z"
+  },
+  "bond ": {
+    "username": "bond ",
+    "password": "bond",
+    "address": "0x8Efb72E98a8782440c3144188c9c3eCef3b96463",
+    "privateKey": "0xb604526ecee8d27c9c1b1bc90105d439608256ed6c0e207afef634b9a1b8be8c",
+    "cardNumber": "1234567890123456",
+    "cvv": "123",
+    "expiryDate": "04/26",
+    "createdAt": "2026-04-04T14:16:13.334Z"
+  },
+  "bond1": {
+    "username": "bond1",
+    "password": "bond",
+    "address": "0x03cC3aaC09219Dd5cD419685466a7f68c6BD2754",
+    "privateKey": "0x3a51562a37fb952a454bb294d0f639fc5c878a7d21e6a84eb1b2373551dcc072",
+    "cardNumber": "1234567890123456",
+    "cvv": "123",
+    "expiryDate": "04/26",
+    "createdAt": "2026-04-04T14:17:17.320Z"
+  },
+  "michael": {
+    "username": "michael",
+    "password": "michael",
+    "address": "0x34DffA1309A9e70726d9b34bcd777b3cb707047f",
+    "privateKey": "0xde6378baca4a671604dc14283e4967abb3a9d18167327c3d8181dd51d5ed6be0",
+    "cardNumber": "1234567890123456",
+    "cvv": "123",
+    "expiryDate": "04/26",
+    "createdAt": "2026-04-04T14:21:11.603Z"
+  },
+  "martin": {
+    "username": "martin",
+    "password": "martin",
+    "address": "0x306Cf3E0670E9fEB3154bF74C7633626EB9f4dF5",
+    "privateKey": "0x1d44fabe7d5a651a60c14a8f7a2d0f63c57c85dcd24f547f17d5d8663fd35c24",
+    "cardNumber": "1234567890123456",
+    "cvv": "123",
+    "expiryDate": "04/26",
+    "createdAt": "2026-04-04T14:24:53.953Z"
+  },
+  "charities": {
+    "username": "charities",
+    "password": "charities",
+    "address": "0x04BCD27c8F3108BE890E735E848f8C2b7D820651",
+    "privateKey": "0x5e12407fc057861e8a00790d13582bef6c27f955e2a68b6082dcdc303c5e2eb3",
+    "cardNumber": "1234567890123456",
+    "cvv": "123",
+    "expiryDate": "04/26",
+    "createdAt": "2026-04-04T14:44:57.328Z"
+  },
+  "organization": {
+    "username": "organization",
+    "password": "organization",
+    "address": "0x1d001168862eE4a9537462BDA813875e8263Bd9C",
+    "privateKey": "0xf1eaac55fa6af066d4bea3a32d618e5467187de044677f994ce1ed993c1f2768",
+    "cardNumber": "1234567890123456",
+    "cvv": "123",
+    "expiryDate": "04/26",
+    "createdAt": "2026-04-04T15:33:51.023Z"
+  }
+}
