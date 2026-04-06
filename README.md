@@ -42,6 +42,6 @@ chmod +x node_modules/.bin/react-scripts
 <p>ch ..
 </p>
 ./start_web3.sh
-The firefox will start any second now
+<p>The firefox will start any second now</p>
 <p><img width="1141" height="763" alt="圖片" src="https://github.com/user-attachments/assets/e55b3c2a-4459-4222-a903-ce2df8651b71" /></p>
 
