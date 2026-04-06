@@ -1,3 +1,4 @@
+
 <img width="802" height="38" alt="圖片" src="https://github.com/user-attachments/assets/28affa6d-9d1c-4d31-9f36-23e4e4dbcc73" /># 431-project
 
 sudo apt update
@@ -42,6 +43,6 @@ chmod +x node_modules/.bin/react-scripts
 <p>ch ..
 </p>
 ./start_web3.sh
-<p>The firefox will start any second now</p>
+<p>There will have 3 Terminal Windows be used. if the process is success, firefox will start As soon As possibe.</p>
 <p><img width="1141" height="763" alt="圖片" src="https://github.com/user-attachments/assets/e55b3c2a-4459-4222-a903-ce2df8651b71" /></p>
 
