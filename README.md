@@ -45,4 +45,18 @@ chmod +x node_modules/.bin/react-scripts
 ./start_web3.sh
 <p>There will have 3 Terminal Windows be used. if the process is success, firefox will start As soon As possibe.</p>
 <p><img width="1141" height="763" alt="圖片" src="https://github.com/user-attachments/assets/e55b3c2a-4459-4222-a903-ce2df8651b71" /></p>
+#Click "Register Account" to create a new account
+<img width="555" height="657" alt="圖片" src="https://github.com/user-attachments/assets/2aa6b883-2be3-49ad-be04-c6aa20b272bf" />
+#The interface shows the donors current balance with a deposit and withdraw button
+#Also a quick transfer section for donation
+#The right side Identity Vault is the user's wallet address
+<p><img width="1161" height="634" alt="圖片" src="https://github.com/user-attachments/assets/cc5616fc-0344-4cef-b7f1-652a624111b4" />
+</p>
+#Under the donors's balance. These are 2 search bar. One is transcation hash, one is wallet address.
+<p><img width="1158" height="412" alt="圖片" src="https://github.com/user-attachments/assets/eefe434f-c2be-4019-9e62-e33cad3ef3f6" />
+</p>
+#Example test->bob
+<p><img width="451" height="346" alt="圖片" src="https://github.com/user-attachments/assets/c1c26c14-a275-4d6b-89bf-a94bf0fd3b92" /></p>
+<p><img width="1152" height="205" alt="圖片" src="https://github.com/user-attachments/assets/38f869b4-afb5-4111-9d80-ea2183dcdab0" /></p>
+<p><img width="1127" height="619" alt="圖片" src="https://github.com/user-attachments/assets/7563ab96-e396-48f5-a106-148383fa5200" /></p>
 
