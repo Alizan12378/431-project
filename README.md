@@ -1,6 +1,5 @@
 # 431-project
 
-sudo apt update
 <p><img width="300" height="24" alt="圖片" src="https://github.com/user-attachments/assets/9fefa65b-92be-43e5-a2c0-57b24a90b8ca" />
 </p>
 
@@ -41,6 +40,10 @@ chmod +x node_modules/.bin/react-scripts
 <p>back to the previous folder /donation-truffle</p>
 <p>ch ..
 </p>
+open start_web3.sh and change the BASE_DIR to your new path. (the modify nessary part is username. )
+<img width="913" height="188" alt="螢幕擷取畫面 2026-04-06 022225" src="https://github.com/user-attachments/assets/21deb684-aeca-4a81-a01f-793ff6867f0e" /></p>
+
+sudo apt update
 ./start_web3.sh
 <p>There will have 3 Terminal Windows be used. if the process is success, firefox will start As soon As possibe.</p>
 <p><img width="1141" height="763" alt="圖片" src="https://github.com/user-attachments/assets/e55b3c2a-4459-4222-a903-ce2df8651b71" /></p>
