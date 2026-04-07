@@ -1,5 +1,4 @@
 # 431-project
-<img width="802" height="38" alt="圖片" src="https://github.com/user-attachments/assets/28affa6d-9d1c-4d31-9f36-23e4e4dbcc73" />
 
 sudo apt update
 <p><img width="300" height="24" alt="圖片" src="https://github.com/user-attachments/assets/9fefa65b-92be-43e5-a2c0-57b24a90b8ca" />
